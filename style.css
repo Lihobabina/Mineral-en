@@ -790,4 +790,6 @@ padding: 40px;
     justify-content: end;
   }
 }
-
+.topic3 div img{
+  width: 100%;
+}
